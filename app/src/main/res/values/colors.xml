@@ -14,4 +14,14 @@
     <color name="light_blue">#E3F2FD</color>
     <color name="red">#FFCDD2</color>
 
+    <color name="card1">#3D3270</color>
+    <color name="card2">#479696</color>
+    <color name="card3">#FF5648</color>
+    <color name="card4">#C93F8D</color>
+
+    <color name="card1p">#F6F5FB</color>
+    <color name="card2p">#F5F9F9</color>
+    <color name="card3p">#FFF4F4</color>
+    <color name="card4p">#FDF9FB</color>
+
 </resources>
