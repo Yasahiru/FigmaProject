@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="progress">#C93F8D</color>
+    <color name="text">#888888</color>
+    <color name="third">#479696</color>
+    <color name="second">#FF5648</color>
+    <color name="first">#404F3E99</color>
+    <color name="hows">#403572</color>
+    <color name="howsp">#F6F5FB</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="blue">#2196F3</color>
+    <color name="light_blue">#E3F2FD</color>
+    <color name="red">#FFCDD2</color>
+
+</resources>
